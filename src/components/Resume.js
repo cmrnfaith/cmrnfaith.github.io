@@ -23,7 +23,7 @@ const Resume = () => {
           </p>
 
           <a
-            href="https://github.com/cmrnfaith/portfolio/raw/main/docs/Cameron Faith - Resume.pdf"
+            href="https://github.com/cmrnfaith/portfolio/blob/master/docs/Cameron%20Faith%20-%20Resume.pdf"
             class="link"
           >
             Download Resume
