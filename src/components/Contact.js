@@ -17,7 +17,7 @@ const ContactForm = () => {
       const isValid = validateEmail(e.target.value)
 
       if (!isValid) {
-        setErrorMessage("please enter a valid email")
+        setErrorMessage("Please enter a valid email")
       } else {
         setErrorMessage("")
       }
@@ -50,7 +50,7 @@ const ContactForm = () => {
           <input
             class="form-control"
             type="text"
-            name="name"
+            name="Name"
             defaultValue={name}
             onBlur={handleChange}
           />
@@ -60,7 +60,7 @@ const ContactForm = () => {
           <input
             class="form-control"
             type="email"
-            name="email"
+            name="Email"
             defaultValue={email}
             onBlur={handleChange}
           />
@@ -69,7 +69,7 @@ const ContactForm = () => {
           <label htmlFor="message">Message:</label>
           <textarea
             class="form-control"
-            name="message"
+            name="Message"
             defaultValue={message}
             onBlur={handleChange}
             rows="7"
