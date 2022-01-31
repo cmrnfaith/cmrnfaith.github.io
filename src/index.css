@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Audiowide");
 @import url("https://fonts.googleapis.com/css?family=Days+One");
 @import url("https://fonts.googleapis.com/css?family=Oswald");
+@import url("https://fonts.googleapis.com/css?family=Lato");
 
 main {
   margin: 0 auto;
@@ -124,11 +125,12 @@ button[disabled] {
 
 img {
   max-width: 100%;
+  max-height: 100%;
 }
 
 #avatar {
-  max-height: 300px;
-  border-radius: 300px;
+  max-height: 320px;
+  border-radius: 320px;
 }
 
 span[role="img"] {
@@ -158,12 +160,13 @@ li {
 }
 
 .nav-font {
-  font-family: "Audiowide";
+  font-family: "Lato";
   font-size: 1.5em;
 }
 
 .nav-title-font {
   font-family: "Days One";
+  margin: "10px";
   font-size: 1.9em;
 }
 
@@ -357,6 +360,10 @@ textarea {
   right: 0;
   top: 0;
   z-index: 1;
+}
+
+.container {
+  padding-bottom: 200px;
 }
 
 .modalContainer {

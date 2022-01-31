@@ -4,7 +4,7 @@
     "name": "Bitcoin Bot",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
     "github": "https://github.com/excessive-alpha/BitcoinBot",
-    "deploy": "#/NotFound",
+    "deploy": "https://github.com/excessive-alpha/BitcoinBot",
     "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
   },
   {

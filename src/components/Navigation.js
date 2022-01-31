@@ -12,21 +12,26 @@ const Navigation = () => {
           </div>
         </NavLink>
         <ul class="navbar-nav ml-auto navitem-indent">
-          <NavLink to="/about">
-            <div class="nav-font text-light">About Me</div>
-          </NavLink>
-
-          <NavLink to="/portfolio">
-            <div class="nav-font text-light">Portfolio</div>
-          </NavLink>
-
-          <NavLink to="/contact">
-            <div class="nav-font text-light">Contact</div>
-          </NavLink>
-
-          <NavLink to="/resume">
-            <div class="nav-font text-light">Resume</div>
-          </NavLink>
+          <li>
+            <NavLink to="/about">
+              <div class="nav-font text-light">About Me</div>
+            </NavLink>
+          </li>
+          <li>
+            <NavLink to="/portfolio">
+              <div class="nav-font text-light">Portfolio</div>
+            </NavLink>
+          </li>
+          <li>
+            <NavLink to="/contact">
+              <div class="nav-font text-light">Contact</div>
+            </NavLink>
+          </li>
+          <li>
+            <NavLink to="/resume">
+              <div class="nav-font text-light">Resume</div>
+            </NavLink>
+          </li>
         </ul>
       </Navbar>
     </div>

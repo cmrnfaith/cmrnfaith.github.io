@@ -44,9 +44,16 @@ const ContactForm = () => {
         Contact Form
       </h2>
       <hr></hr>
-      <form class="justify-content-center" id="contact-form">
+      <form
+        class="justify-content-center"
+        id="contact-form"
+        method="post"
+        action="https://forms.un-static.com/forms/848fb6f4c3cc82d26b2ab919dbabc4d022182f2e"
+      >
         <div class="mt-5">
-          <label htmlFor="name">Name:</label>
+          <label htmlFor="name" style={{ fontSize: "1.2rem" }}>
+            Name:
+          </label>
           <input
             class="form-control"
             type="text"
@@ -56,7 +63,9 @@ const ContactForm = () => {
           />
         </div>
         <div class="mt-5">
-          <label htmlFor="email">Email Address:</label>
+          <label htmlFor="email" style={{ fontSize: "1.2rem" }}>
+            Email Address:
+          </label>
           <input
             class="form-control"
             type="email"
@@ -66,7 +75,9 @@ const ContactForm = () => {
           />
         </div>
         <div class="mt-5">
-          <label htmlFor="message">Message:</label>
+          <label htmlFor="message" style={{ fontSize: "1.2rem" }}>
+            Message:
+          </label>
           <textarea
             class="form-control"
             name="Message"
@@ -86,6 +97,7 @@ const ContactForm = () => {
             data-testid="button"
             class="btn btn-outline-dark "
             type="submit"
+            style={{ fontSize: "1.2rem" }}
             onSubmit={handleSubmit}
           >
             Submit
