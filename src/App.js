@@ -6,10 +6,10 @@ import "bootstrap/dist/css/bootstrap.min.css"
 
 const App = () => {
   return (
-    <>
+    <div className="page-container">
       <Header />
       <Footer />
-    </>
+    </div>
   )
 }
 

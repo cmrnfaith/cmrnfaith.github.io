@@ -1,5 +1,5 @@
 import React from "react"
-import ResumePDF from "../images/Cameron Faith - Resume.pdf"
+// import ResumePDF from "../images/Cameron Faith - Resume.pdf"
 
 const Resume = () => {
   return (
@@ -54,12 +54,12 @@ const Resume = () => {
         </div>
       </div>
 
-      <iframe
+      {/* <iframe
         src={ResumePDF}
         width="100%"
         height="1150px"
         title="Resume"
-      ></iframe>
+      ></iframe> */}
     </section>
   )
 }

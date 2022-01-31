@@ -1,7 +1,7 @@
 import React from "react"
 const Footer = () => {
   return (
-    <footer className="footer bg-dark fixed-bottom">
+    <footer className="footer bg-dark">
       <div style={{ alignContent: "start" }}>
         <h2 id="footer-logo" style={{ color: "white", marginTop: "10px" }}>
           Cameron Faith

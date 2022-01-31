@@ -14,14 +14,16 @@ const Header = () => {
         <header>
           <Navigation />
         </header>
-        <Routes>
-          <Route exact path="/" element={<Navigate to="/about" />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/portfolio" element={<Portfolio />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/resume" element={<Resume />} />
-          <Route path="*" exact={true} element={<NotFound />} />
-        </Routes>
+        <div className="container">
+          <Routes>
+            <Route exact path="/" element={<Navigate to="/about" />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/portfolio" element={<Portfolio />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/resume" element={<Resume />} />
+            <Route path="*" exact={true} element={<NotFound />} />
+          </Routes>
+        </div>
       </HashRouter>
     </>
   )
