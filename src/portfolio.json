@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Bitcoin Bot",
+    "image": "./images/bitcoin_bot.png",
+    "github": "https://github.com/excessive-alpha/BitcoinBot",
+    "deploy": "",
+    "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
+  },
+  {
+    "id": 2,
+    "name": "Crypto Trading Platform",
+    "image": "./images/charts.png",
+    "github": "https://github.com/excessive-alpha/web-dev-python-flask",
+    "deploy": "https://excessivealpha.com",
+    "topics": "React, Python, API, PostgreSQL DB, TimeScaleDB, Charting, Indexing Data, Crypto"
+  }
+]
