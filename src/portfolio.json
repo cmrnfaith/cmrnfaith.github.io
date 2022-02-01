@@ -17,10 +17,10 @@
   },
   {
     "id": 3,
-    "name": "Bitcoin Bot",
+    "name": "FSAE Track Data UI",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
-    "github": "https://github.com/excessive-alpha/BitcoinBot",
-    "deploy": "https://github.com/excessive-alpha/BitcoinBot",
+    "github": "https://github.com/cmrnfaith/FSAE-Track-Data-UI",
+    "deploy": "https://github.com/cmrnfaith/FSAE-Track-Data-UI",
     "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
   },
   {
