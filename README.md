@@ -11,10 +11,10 @@ This is the repository for my personal portfolio page. This page will contain in
 
 ## Table of Contents
 
-- [Installation](##Installation)
-- [Usage](##Usage)
-- [Documentation](##Documentation)
-- [Questions](##Questions)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Documentation](#Documentation)
+- [Questions](#Questions)
 
 ## Installation
 
@@ -39,6 +39,6 @@ npm start
 
 #### Screenshot
 
-![Screenshot of the Application](docs/portfolio.png?raw=true "Screenshot of the Application")
+![Screenshot of the Application](docs/homepage.png?raw=true "Screenshot of the Application")
 
 ### Link to the application running on Github Pages: [(React) Personal Portfolio](https://cmrnfaith.github.io/portfolio/)
