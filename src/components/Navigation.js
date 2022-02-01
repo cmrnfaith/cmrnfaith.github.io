@@ -1,4 +1,5 @@
 import { Navbar } from "react-bootstrap"
+import { FaRegChartBar } from "react-icons/fa"
 import React from "react"
 import { NavLink } from "react-router-dom"
 
@@ -6,30 +7,28 @@ const Navigation = () => {
   return (
     <div>
       <Navbar expand="lg" bg="dark" sticky="top">
-        <NavLink className="nav-link" to="/">
+        <NavLink to="/" id="nav-title-font text-light">
+          <FaRegChartBar style={{ fontSize: "3em", marginLeft: "20px" }} />
+        </NavLink>
+        <NavLink className="nav-link" to="/about">
           <div class="text-light">
             <h4 class="nav-title-font">Cameron Faith</h4>
           </div>
         </NavLink>
         <ul class="navbar-nav ml-auto navitem-indent">
           <li>
-            <NavLink to="/about">
-              <div class="nav-font text-light">About Me</div>
-            </NavLink>
-          </li>
-          <li>
             <NavLink to="/portfolio">
               <div class="nav-font text-light">Portfolio</div>
             </NavLink>
           </li>
           <li>
-            <NavLink to="/contact">
-              <div class="nav-font text-light">Contact</div>
+            <NavLink to="/resume">
+              <div class="nav-font text-light">Resume</div>
             </NavLink>
           </li>
           <li>
-            <NavLink to="/resume">
-              <div class="nav-font text-light">Resume</div>
+            <NavLink to="/contact">
+              <div class="nav-font text-light">Contact</div>
             </NavLink>
           </li>
         </ul>

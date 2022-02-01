@@ -14,5 +14,37 @@
     "github": "https://github.com/excessive-alpha/web-dev-python-flask",
     "deploy": "https://excessivealpha.com",
     "topics": "React, Python, API, PostgreSQL DB, TimeScaleDB, Charting, Indexing Data, Crypto"
+  },
+  {
+    "id": 3,
+    "name": "Bitcoin Bot",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
+    "github": "https://github.com/excessive-alpha/BitcoinBot",
+    "deploy": "https://github.com/excessive-alpha/BitcoinBot",
+    "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
+  },
+  {
+    "id": 4,
+    "name": "Crypto Trading Platform",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/charts.png",
+    "github": "https://github.com/excessive-alpha/web-dev-python-flask",
+    "deploy": "https://excessivealpha.com",
+    "topics": "React, Python, API, PostgreSQL DB, TimeScaleDB, Charting, Indexing Data, Crypto"
+  },
+  {
+    "id": 5,
+    "name": "Bitcoin Bot",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
+    "github": "https://github.com/excessive-alpha/BitcoinBot",
+    "deploy": "https://github.com/excessive-alpha/BitcoinBot",
+    "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
+  },
+  {
+    "id": 6,
+    "name": "Crypto Trading Platform",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/charts.png",
+    "github": "https://github.com/excessive-alpha/web-dev-python-flask",
+    "deploy": "https://excessivealpha.com",
+    "topics": "React, Python, API, PostgreSQL DB, TimeScaleDB, Charting, Indexing Data, Crypto"
   }
 ]

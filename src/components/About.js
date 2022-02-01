@@ -8,9 +8,19 @@ const About = () => {
       <div>
         <img class="mb-5" id="avatar" src={ProfileImage} alt="Cameron Faith" />
 
-        <p>Summary of my experience</p>
-        <p>Strong knowledge of...</p>
-        <p>Final text Here</p>
+        <p>
+          I'm a Computer Engineer from the University of Calgary with an
+          aptitude in Data Analysis, Algorithms and Finance.
+        </p>
+        <p>
+          I have a strong foundation in Object Oriented Programing (OOP),
+          Algorithm Design, Embedded Systems Programing, Project Management, and
+          Web Design.
+        </p>
+        <p>
+          I am looking for a full-time remote position, but am open to
+          relocating for the right opportunity.{" "}
+        </p>
       </div>
     </section>
   )

@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 
 const App = () => {
   return (
-    <div className="page-container">
+    <div className="flex-wrapper">
       <Header />
       <Footer />
     </div>

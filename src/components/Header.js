@@ -1,6 +1,6 @@
-import { Route, Navigate, HashRouter, Routes } from "react-router-dom"
 import React from "react"
 import Navigation from "./Navigation"
+import { Route, Navigate, HashRouter, Routes } from "react-router-dom"
 import About from "./About"
 import Portfolio from "./Portfolio"
 import Contact from "./Contact"
