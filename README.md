@@ -11,10 +11,10 @@ This is the repository for my personal portfolio page. This page will contain in
 
 ## Table of Contents
 
-- [Installation](##Installation)
-- [Usage](##Usage)
-- [Documentation](##Documentation)
-- [Questions](##Questions)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Documentation](#Documentation)
+- [Questions](#Questions)
 
 ## Installation
 
