@@ -48,7 +48,7 @@
     "id": 6,
     "name": "NFT Generator Program",
     "blog": "/blog/nft",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/squirrel.png",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/squirrel.gif",
     "github": "https://github.com/excessive-alpha/web-dev-python-flask",
     "deploy": "https://opensea.io",
     "topics": "Python, Image Processing, Algorithms, Smart Contracts, Art"
