@@ -7,7 +7,7 @@ const ProjectCards = (props) => {
   return (
     <div className="card">
       <li className="img-container">
-        <Link to="/about">
+        <Link to={props.blog}>
           <img alt={props.name} src={props.image} />
         </Link>
       </li>

@@ -24,6 +24,7 @@ const Portfolio = () => {
             github={project.github}
             deploy={project.deploy}
             topics={project.topics}
+            blog={project.blog}
           />
         ))}
       </Wrapper>

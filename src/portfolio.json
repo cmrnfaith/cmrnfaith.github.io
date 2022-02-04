@@ -1,35 +1,35 @@
 [
   {
     "id": 1,
-    "name": "Bitcoin Bot",
-    "blog": "/portfolio",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
-    "github": "https://github.com/excessive-alpha/BitcoinBot",
-    "deploy": "https://github.com/excessive-alpha/BitcoinBot",
-    "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
-  },
-  {
-    "id": 2,
     "name": "Crypto Trading Platform",
-    "blog": "/about",
+    "blog": "/blog/excessive_alpha",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/charts.png",
     "github": "https://github.com/excessive-alpha/web-dev-python-flask",
     "deploy": "https://excessivealpha.com",
     "topics": "React, Python, API, PostgreSQL DB, TimeScaleDB, Charting, Indexing Data, Crypto"
   },
   {
-    "id": 3,
+    "id": 2,
     "name": "FSAE Track Data UI",
-    "blog": "/portfolio",
+    "blog": "/blog/fsae_track_ui",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/Track.png",
     "github": "https://github.com/cmrnfaith/FSAE-Track-Data-UI",
     "deploy": "https://github.com/cmrnfaith/FSAE-Track-Data-UI",
     "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
   },
   {
+    "id": 3,
+    "name": "Bitcoin Bot",
+    "blog": "/blog/crypto_bot",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
+    "github": "https://github.com/excessive-alpha/BitcoinBot",
+    "deploy": "https://github.com/excessive-alpha/BitcoinBot",
+    "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
+  },
+  {
     "id": 4,
     "name": "Bitcoin Bot",
-    "blog": "/portfolio",
+    "blog": "/blog/nft_generator",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
     "github": "https://github.com/excessive-alpha/BitcoinBot",
     "deploy": "https://github.com/excessive-alpha/BitcoinBot",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Bitcoin Bot",
-    "blog": "/portfolio",
+    "blog": "/blog/crypto_bot",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
     "github": "https://github.com/excessive-alpha/BitcoinBot",
     "deploy": "https://github.com/excessive-alpha/BitcoinBot",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "NFT Generator Program",
-    "blog": "/portfolio",
+    "blog": "/blog/nft",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/squirrel.png",
     "github": "https://github.com/excessive-alpha/web-dev-python-flask",
     "deploy": "https://opensea.io",
