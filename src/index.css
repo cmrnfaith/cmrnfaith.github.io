@@ -12,10 +12,11 @@ main {
   --primary: #8c54ff;
   --secondary: #f3a847;
   --tertiary: #b12704;
-  --light: #fafafa;
+  --light: #fffefe;
   --cultured: #a3a3a3;
   --dark: #000000;
   --darker: #111111;
+  --headerlight: #8d8d8d;
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
@@ -108,7 +109,7 @@ header {
 }
 
 header a {
-  color: var(--light);
+  color: var(--headerlight);
 }
 
 button {
