@@ -6,8 +6,12 @@ const Footer = () => {
         <h2 id="footer-logo" style={{ color: "white", marginTop: "10px" }}>
           Cameron Faith
         </h2>
-        <p style={{ color: "white" }}>Software Engineer | Data Analysis</p>
-        <p style={{ color: "white" }}>Algorithmic Trading | Blockchain</p>
+        <p style={{ color: "white", textAlign: "left" }}>
+          Software Engineer | Data Analysis
+        </p>
+        <p style={{ color: "white", textAlign: "left" }}>
+          Algorithmic Trading | Technology
+        </p>
       </div>
       <div style={{ alignContent: "end", marginLeft: "50px" }}>
         <a href="https://github.com/cmrnfaith">
