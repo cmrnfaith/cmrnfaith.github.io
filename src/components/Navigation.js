@@ -11,24 +11,24 @@ const Navigation = () => {
           <FaRegChartBar style={{ fontSize: "3em", marginLeft: "20px" }} />
         </NavLink>
         <NavLink className="nav-link" to="/about">
-          <div class="text-light">
-            <h4 class="nav-title-font">Cameron Faith</h4>
+          <div className="text-light">
+            <h4 className="nav-title-font">Cameron Faith</h4>
           </div>
         </NavLink>
-        <ul class="navbar-nav ml-auto navitem-indent">
+        <ul className="navbar-nav ml-auto navitem-indent">
           <li>
             <NavLink to="/portfolio">
-              <div class="nav-font text-light">Portfolio</div>
+              <div className="nav-font text-light">Portfolio</div>
             </NavLink>
           </li>
           <li>
             <NavLink to="/resume">
-              <div class="nav-font text-light">Resume</div>
+              <div className="nav-font text-light">Resume</div>
             </NavLink>
           </li>
           <li>
             <NavLink to="/contact">
-              <div class="nav-font text-light">Contact</div>
+              <div className="nav-font text-light">Contact</div>
             </NavLink>
           </li>
         </ul>

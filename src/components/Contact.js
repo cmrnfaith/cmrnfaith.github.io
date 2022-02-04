@@ -45,41 +45,41 @@ const ContactForm = () => {
       </h2>
       <hr></hr>
       <form
-        class="justify-content-center"
+        className="justify-content-center"
         id="contact-form"
         method="post"
         action="https://forms.un-static.com/forms/848fb6f4c3cc82d26b2ab919dbabc4d022182f2e"
       >
-        <div class="mt-5">
+        <div className="mt-5">
           <label htmlFor="name" style={{ fontSize: "1.2rem" }}>
             Name:
           </label>
           <input
-            class="form-control"
+            className="form-control"
             type="text"
             name="Name"
             defaultValue={name}
             onBlur={handleChange}
           />
         </div>
-        <div class="mt-5">
+        <div className="mt-5">
           <label htmlFor="email" style={{ fontSize: "1.2rem" }}>
             Email Address:
           </label>
           <input
-            class="form-control"
+            className="form-control"
             type="email"
             name="Email"
             defaultValue={email}
             onBlur={handleChange}
           />
         </div>
-        <div class="mt-5">
+        <div className="mt-5">
           <label htmlFor="message" style={{ fontSize: "1.2rem" }}>
             Message:
           </label>
           <textarea
-            class="form-control"
+            className="form-control"
             name="Message"
             defaultValue={message}
             onBlur={handleChange}
@@ -92,10 +92,10 @@ const ContactForm = () => {
           </div>
         )}
 
-        <div class="mt-5 mb-5">
+        <div className="mt-5 mb-5">
           <button
             data-testid="button"
-            class="btn btn-outline-dark "
+            className="btn btn-outline-dark "
             type="submit"
             style={{ fontSize: "1.2rem" }}
             onSubmit={handleSubmit}

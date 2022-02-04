@@ -1,32 +1,35 @@
 import "bootstrap/dist/css/bootstrap.min.css"
 import React from "react"
+import { Link } from "react-router-dom"
 
 // Individual Cards
 const ProjectCards = (props) => {
   return (
     <div className="card">
-      <div className="img-container">
-        <img alt={props.name} src={props.image} />
-      </div>
+      <li className="img-container">
+        <Link to="/about">
+          <img alt={props.name} src={props.image} />
+        </Link>
+      </li>
       <div className="content">
         <p className="card-title">{props.name}</p>
-        <p class="proj-icons-container">
+        <p className="proj-icons-container">
           <a href={props.github}>
             <img
-              class="project-icon"
+              className="project-icon"
               src="https://img.icons8.com/fluent/48/000000/github.png"
               alt="GitHub Repo"
             />
           </a>
           <a href={props.deploy}>
             <img
-              class="project-icon"
+              className="project-icon"
               src="https://img.icons8.com/fluent/48/000000/domain.png"
               alt="Live Application"
             />
           </a>
         </p>
-        <p class="topics">({props.topics})</p>
+        <p className="topics">({props.topics})</p>
       </div>
     </div>
   )
