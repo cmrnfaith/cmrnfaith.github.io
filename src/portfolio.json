@@ -12,7 +12,7 @@
     "id": 2,
     "name": "FSAE Track Data UI",
     "blog": "/blog/fsae_track_ui",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/Track.png",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/track.jpg",
     "github": "https://github.com/cmrnfaith/FSAE-Track-Data-UI",
     "deploy": "",
     "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
@@ -61,5 +61,14 @@
     "github": "https://github.com/cmrnfaith/Text2Speech",
     "deploy": "",
     "topics": "C, Embedded Programming, Arduino, Audio Processing, Text Recognition, Accessibility"
+  },
+  {
+    "id": 8,
+    "name": "Parking Lot Simulator",
+    "blog": "/blog/parking_lot",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/parking_lot.gif",
+    "github": "https://github.com/cmrnfaith/ParkingLotSim",
+    "deploy": "",
+    "topics": "Processing, Simulation, OOP, Game Development"
   }
 ]
