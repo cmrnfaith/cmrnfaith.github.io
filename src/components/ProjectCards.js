@@ -6,11 +6,12 @@ import { Link } from "react-router-dom"
 const ProjectCards = (props) => {
   return (
     <div className="card">
-      <li className="img-container">
-        <Link to={props.blog}>
+      <Link to={props.blog}>
+        <div className="img-container">
           <img alt={props.name} src={props.image} />
-        </Link>
-      </li>
+        </div>
+      </Link>
+
       <div className="content">
         <p className="card-title">{props.name}</p>
         <p className="proj-icons-container">

@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Crypto Trading Platform",
-    "blog": "/blog/excessive_alpha",
+    "blog": "/blog",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/charts.png",
     "github": "https://github.com/excessive-alpha/web-dev-python-flask",
     "deploy": "https://excessivealpha.com",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "name": "FSAE Track Data UI",
-    "blog": "/blog/fsae_track_ui",
+    "blog": "/blog",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/track.JPG",
     "github": "https://github.com/cmrnfaith/FSAE-Track-Data-UI",
     "deploy": "",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "name": "Bitcoin Bot",
-    "blog": "/blog/crypto_bot",
+    "blog": "/blog",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
     "github": "https://github.com/excessive-alpha/BitcoinBot",
     "deploy": "",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "name": "Tire Temperature & Pressure Monitoring System",
-    "blog": "/blog/ttpms",
+    "blog": "/blog",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/ttpms.png",
     "github": "https://github.com/lukegarland/ttpms",
     "deploy": "",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "name": "Course Registration System",
-    "blog": "/blog/course_reg_system",
+    "blog": "/blog",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/course_reg.png",
     "github": "https://github.com/lukegarland/CourseRegistrationSystem",
     "deploy": "",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "name": "NFT Generator Program",
-    "blog": "/blog/nft",
+    "blog": "/blog",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/squirrel.gif",
     "github": "https://github.com/excessive-alpha/web-dev-python-flask",
     "deploy": "https://opensea.io",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "name": "Text-2-Speech",
-    "blog": "/blog/t2s",
+    "blog": "/blog",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/t2s.png",
     "github": "https://github.com/cmrnfaith/Text2Speech",
     "deploy": "",
@@ -65,8 +65,8 @@
   {
     "id": 8,
     "name": "Parking Lot Simulator",
-    "blog": "/blog/parking_lot",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/parking_lot.gif",
+    "blog": "/blog",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/parking_lot.mp4",
     "github": "https://github.com/cmrnfaith/ParkingLotSim",
     "deploy": "",
     "topics": "Processing, Simulation, OOP, Game Development"

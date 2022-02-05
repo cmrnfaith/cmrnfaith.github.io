@@ -31,6 +31,11 @@ const Navigation = () => {
               <div className="nav-font text-light">Contact</div>
             </NavLink>
           </li>
+          <li>
+            <NavLink to="/blog">
+              <div className="nav-font text-light">Blog</div>
+            </NavLink>
+          </li>
         </ul>
       </Navbar>
     </div>

@@ -6,6 +6,7 @@ import Portfolio from "./Portfolio"
 import Contact from "./Contact"
 import Resume from "./Resume"
 import NotFound from "./NotFound"
+import Blog from "./Blog"
 
 const Header = () => {
   return (
@@ -21,6 +22,7 @@ const Header = () => {
             <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/resume" element={<Resume />} />
+            <Route path="/blog" element={<Blog />} />
             <Route path="*" exact={true} element={<NotFound />} />
           </Routes>
         </div>
