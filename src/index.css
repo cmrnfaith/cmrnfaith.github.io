@@ -296,10 +296,10 @@ textarea {
 }
 
 .card .img-container {
-  height: 75%;
-  overflow: hidden;
+  height: 100%;
+  overflow: clip;
   text-align: center;
-  border-radius: 10px;
+  border-radius: 20px;
   background-color: var(--white);
 }
 

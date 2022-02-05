@@ -14,7 +14,7 @@
     "blog": "/blog/fsae_track_ui",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/Track.png",
     "github": "https://github.com/cmrnfaith/FSAE-Track-Data-UI",
-    "deploy": "https://github.com/cmrnfaith/FSAE-Track-Data-UI",
+    "deploy": "",
     "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
   },
   {
@@ -23,26 +23,26 @@
     "blog": "/blog/crypto_bot",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
     "github": "https://github.com/excessive-alpha/BitcoinBot",
-    "deploy": "https://github.com/excessive-alpha/BitcoinBot",
+    "deploy": "",
     "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
   },
   {
     "id": 4,
-    "name": "Bitcoin Bot",
-    "blog": "/blog/nft_generator",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
-    "github": "https://github.com/excessive-alpha/BitcoinBot",
-    "deploy": "https://github.com/excessive-alpha/BitcoinBot",
-    "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
+    "name": "Tire Temperature & Pressure Monitoring System",
+    "blog": "/blog/ttpms",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/ttpms.png",
+    "github": "https://github.com/lukegarland/ttpms",
+    "deploy": "",
+    "topics": "Java, GUI, C/C++, Networks, Communications Systems, Sensors, Embedded Programming"
   },
   {
     "id": 5,
-    "name": "Bitcoin Bot",
-    "blog": "/blog/crypto_bot",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
-    "github": "https://github.com/excessive-alpha/BitcoinBot",
-    "deploy": "https://github.com/excessive-alpha/BitcoinBot",
-    "topics": "Python, Algorithmic Trading, API, Bot Development, Crypto, Bybit"
+    "name": "Course Registration System",
+    "blog": "/blog/course_reg_system",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/course_reg.png",
+    "github": "https://github.com/lukegarland/CourseRegistrationSystem",
+    "deploy": "",
+    "topics": "Java, OOP, GUI, Database, MySQL, ServerS"
   },
   {
     "id": 6,
@@ -52,5 +52,14 @@
     "github": "https://github.com/excessive-alpha/web-dev-python-flask",
     "deploy": "https://opensea.io",
     "topics": "Python, Image Processing, Algorithms, Smart Contracts, Art"
+  },
+  {
+    "id": 7,
+    "name": "Text-2-Speech",
+    "blog": "/blog/t2s",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/t2s.png",
+    "github": "https://github.com/cmrnfaith/Text2Speech",
+    "deploy": "",
+    "topics": "C, Embedded Programming, Arduino, Audio Processing, Text Recognition, Accessibility"
   }
 ]
