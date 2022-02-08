@@ -288,7 +288,7 @@ textarea {
 .card {
   background-color: var(--white);
   border-radius: 5px;
-  height: 400px;
+  /* height: 420px; */
   margin: 2rem;
   position: relative;
   width: 400px;

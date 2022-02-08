@@ -2,7 +2,7 @@ import React from "react"
 const Footer = () => {
   return (
     <footer className="footer bg-dark">
-      <div style={{ alignContent: "start" }}>
+      <div style={{ alignContent: "start", marginLeft: "10px" }}>
         <h2 id="footer-logo" style={{ color: "white", marginTop: "10px" }}>
           Cameron Faith
         </h2>
@@ -13,7 +13,9 @@ const Footer = () => {
           Algorithmic Trading | Technology
         </p>
       </div>
-      <div style={{ alignContent: "end", marginLeft: "50px" }}>
+      <div
+        style={{ alignContent: "end", marginLeft: "50px", marginRight: "5px" }}
+      >
         <a href="https://github.com/cmrnfaith">
           <img
             src="https://img.icons8.com/color/48/000000/github--v1.png"
@@ -25,13 +27,6 @@ const Footer = () => {
           <img
             src="https://img.icons8.com/fluent/48/000000/linkedin.png"
             alt="LinkedIn"
-            className="icon"
-          />
-        </a>
-        <a href="https://twitter.com/cmrnfaith">
-          <img
-            src="https://img.icons8.com/color/50/000000/twitter--v2.png"
-            alt="Twitter"
             className="icon"
           />
         </a>
