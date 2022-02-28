@@ -37,12 +37,12 @@
   },
   {
     "id": 5,
-    "name": "Course Registration System",
+    "name": "Web 3.0",
     "blog": "/blog",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/course_reg.png",
-    "github": "https://github.com/lukegarland/CourseRegistrationSystem",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/web_3.0/master/docs/homepage.png",
+    "github": "https://github.com/cmrnfaith/web_3.0",
     "deploy": "",
-    "topics": "Java, OOP, GUI, Database, MySQL, ServerS"
+    "topics": "React, Eth, Giphy, CSS, Messaging, Web 3.0"
   },
   {
     "id": 6,
@@ -55,6 +55,15 @@
   },
   {
     "id": 7,
+    "name": "Course Registration System",
+    "blog": "/blog",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/course_reg.png",
+    "github": "https://github.com/lukegarland/CourseRegistrationSystem",
+    "deploy": "",
+    "topics": "Java, OOP, GUI, Database, MySQL, ServerS"
+  },
+  {
+    "id": 8,
     "name": "Text-2-Speech",
     "blog": "/blog",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/t2s.png",
@@ -63,7 +72,7 @@
     "topics": "C, Embedded Programming, Arduino, Audio Processing, Text Recognition, Accessibility"
   },
   {
-    "id": 8,
+    "id": 9,
     "name": "Parking Lot Simulator",
     "blog": "/blog",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/parking_lot.gif",
