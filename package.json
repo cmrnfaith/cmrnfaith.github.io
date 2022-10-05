@@ -1,5 +1,5 @@
 {
-  "homepage": "http://cmrnfaith.github.io/portfolio",
+  "homepage": "http://cmrnfaith.github.io/",
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
@@ -23,7 +23,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "deploy": "gh-pages -d build",
+    "deploy": "echo 'cameronfaith.me' > ./build/CNAME && gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
