@@ -21,6 +21,7 @@ const Header = () => {
             <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/resume" element={<Resume />} />
+            <Route path="/blog?os_viewer" element={<Blog blog="os_viewer" />} />
             <Route path="/blog" element={<Blog />} />
             <Route path="*" exact={true} element={<NotFound />} />
           </Routes>
