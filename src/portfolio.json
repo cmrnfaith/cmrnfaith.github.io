@@ -3,7 +3,7 @@
     "id": 10,
     "name": "OpenSea Webviewer",
     "blog": "/blog?os_viewer",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/missing.png",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/os_viewer.gif",
     "github": "",
     "deploy": "https://ava-viewer.web.app/ava/5264",
     "topics": "React, 3js, Google Cloud, Lighting, API, 3D, UI Design"
