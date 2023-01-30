@@ -41,4 +41,4 @@ npm start
 
 ![Screenshot of the Application](docs/homepage.png?raw=true "Screenshot of the Application")
 
-### Link to the application running on Github Pages: [(React) Personal Portfolio](https://cmrnfaith.github.io/portfolio/)
+### Link to the application running on Github Pages: [(React) Personal Portfolio](https://cmrnfaith.github.io/)
