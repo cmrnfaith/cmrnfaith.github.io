@@ -5,14 +5,14 @@
     "blog": "/blog?os_viewer",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/missing.png",
     "github": "",
-    "deploy": "",
+    "deploy": "https://ava-viewer.web.app/ava/5264",
     "topics": "React, 3js, Google Cloud, Lighting, API, 3D, UI Design"
   },
   {
     "id": 11,
     "name": "Ai Lofi Hip-Hop Radio (In Progress)",
     "blog": "/blog?ai_radio",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/missing.png",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/lofi_ai.jpeg",
     "github": "https://github.com/cmrnfaith/cydro-ai",
     "deploy": "",
     "topics": "Python, AI, PyTorch, Music, Web, Deep Neural Nets, GCP"
