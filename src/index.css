@@ -14,6 +14,7 @@ main {
   --tertiary: #b12704;
   --light: #fffefe;
   --cultured: #a3a3a3;
+  --hover: #deebf2;
   --dark: #000000;
   --darker: #111111;
   --headerlight: #8d8d8d;
@@ -105,10 +106,10 @@ header {
 }
 
 header a {
-  color: var(--headerlight);
+  color: var(--light);
 }
 header a:hover {
-  color: var(--light);
+  color: var(--hover);
 }
 
 button {
@@ -171,6 +172,11 @@ li {
 .nav-font {
   font-family: "Lato";
   font-size: 1.5em;
+  color: var(--light) !important;
+}
+
+.nav-font:hover {
+  color: var(--hover) !important;
 }
 
 .nav-title-font {
@@ -191,14 +197,6 @@ li {
 .navbar-nav > li {
   margin-left: 30px;
   margin-right: 30px;
-}
-
-.nav-font:hover {
-  color: var(--dark);
-}
-
-nav a:hover {
-  text-decoration: none;
 }
 
 nav li {

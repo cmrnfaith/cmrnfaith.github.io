@@ -1,6 +1,6 @@
-import "bootstrap/dist/css/bootstrap.min.css"
-import React from "react"
-import { Link } from "react-router-dom"
+import "bootstrap/dist/css/bootstrap.min.css";
+import React from "react";
+import { Link } from "react-router-dom";
 
 // Individual Cards
 const ProjectCards = (props) => {
@@ -15,13 +15,17 @@ const ProjectCards = (props) => {
       <div className="content">
         <p className="card-title">{props.name}</p>
         <p className="proj-icons-container">
-          <a href={props.github}>
-            <img
-              className="project-icon"
-              src="https://img.icons8.com/fluent/48/000000/github.png"
-              alt="GitHub Repo"
-            />
-          </a>
+          {props.github !== "" ? (
+            <a href={props.github}>
+              <img
+                className="project-icon"
+                src="https://img.icons8.com/fluent/48/000000/github.png"
+                alt="GitHub Repo"
+              />
+            </a>
+          ) : (
+            <></>
+          )}
           {props.deploy !== "" ? (
             <a href={props.deploy}>
               <img
@@ -37,7 +41,7 @@ const ProjectCards = (props) => {
         <p className="topics">({props.topics})</p>
       </div>
     </div>
-  )
-}
+  );
+};
 
-export default ProjectCards
+export default ProjectCards;
