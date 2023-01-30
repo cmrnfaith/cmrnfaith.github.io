@@ -96,12 +96,8 @@ p {
 
 a {
   color: var(--tertiary);
-  text-decoration: none;
+  text-decoration: none !important;
   font-weight: bold;
-}
-
-a:hover {
-  text-decoration: underline;
 }
 
 header {
@@ -110,6 +106,9 @@ header {
 
 header a {
   color: var(--headerlight);
+}
+header a:hover {
+  color: var(--light);
 }
 
 button {
@@ -192,6 +191,10 @@ li {
 .navbar-nav > li {
   margin-left: 30px;
   margin-right: 30px;
+}
+
+.nav-font:hover {
+  color: var(--dark);
 }
 
 nav a:hover {

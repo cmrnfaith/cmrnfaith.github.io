@@ -1,5 +1,5 @@
-import React from "react"
-import ResumePDF from "../images/Cameron Faith - Resume.pdf"
+import React from "react";
+import ResumePDF from "../images/Cameron Faith - Resume.pdf";
 
 const Resume = () => {
   return (
@@ -22,15 +22,16 @@ const Resume = () => {
                 <li>
                   <br />
                   <h5 style={{ fontWeight: "600" }}>Software Development</h5>
-                  Python, C/C++, Java, Git, BASH, Linux, SSH, MATLAB
+                  ReactJS, ExpressJS, Python, Java, C#, PyTorch
                   <br />
                   <br />
-                  <h5 style={{ fontWeight: "600" }}>Web Development</h5>
-                  PostgreSQL, SQL, API's, React.js, HTML, CSS, Bootstrap
+                  <h5 style={{ fontWeight: "600" }}>Cloud Infrastructure</h5>
+                  Google Cloud Platform, Kubernetes, Docker, GitHub CI/CD
                   <br />
                   <br />
-                  <h5 style={{ fontWeight: "600" }}>Finance</h5>
-                  Derivatives, Options, Exchange API's, DeFi, Excel
+                  <h5 style={{ fontWeight: "600" }}>Unique Talents</h5>
+                  AR Development, 3D Development in JS, Financial Direvatives,
+                  Data Analysis
                 </li>
               </ul>
             </div>
@@ -120,7 +121,7 @@ const Resume = () => {
         title="Resume"
       ></iframe>
     </section>
-  )
-}
+  );
+};
 
-export default Resume
+export default Resume;

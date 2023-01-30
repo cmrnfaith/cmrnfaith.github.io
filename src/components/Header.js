@@ -1,12 +1,12 @@
-import React from "react"
-import Navigation from "./Navigation"
-import { Route, Navigate, HashRouter, Routes } from "react-router-dom"
-import About from "./About"
-import Portfolio from "./Portfolio"
-import Contact from "./Contact"
-import Resume from "./Resume"
-import NotFound from "./NotFound"
-import Blog from "./Blog"
+import React from "react";
+import Navigation from "./Navigation";
+import { Route, HashRouter, Routes } from "react-router-dom";
+import About from "./About";
+import Portfolio from "./Portfolio";
+import Contact from "./Contact";
+import Resume from "./Resume";
+import NotFound from "./NotFound";
+import Blog from "./Blog";
 
 const Header = () => {
   return (
@@ -17,8 +17,7 @@ const Header = () => {
         </header>
         <div className="container">
           <Routes>
-            <Route exact path="/" element={<Navigate to="/about" />} />
-            <Route path="/about" element={<About />} />
+            <Route path="/" element={<About />} />
             <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/resume" element={<Resume />} />
@@ -28,7 +27,7 @@ const Header = () => {
         </div>
       </HashRouter>
     </>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

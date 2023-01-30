@@ -1,4 +1,4 @@
-import React from "react"
+import React from "react";
 const Footer = () => {
   return (
     <footer className="footer bg-dark">
@@ -6,12 +6,7 @@ const Footer = () => {
         <h2 id="footer-logo" style={{ color: "white", marginTop: "10px" }}>
           Cameron Faith
         </h2>
-        <p style={{ color: "white", textAlign: "left" }}>
-          Software Engineer | Data Analysis
-        </p>
-        <p style={{ color: "white", textAlign: "left" }}>
-          Algorithmic Trading | Technology
-        </p>
+        <p style={{ color: "white", textAlign: "left" }}>Software Engineer</p>
       </div>
       <div
         style={{ alignContent: "end", marginLeft: "50px", marginRight: "5px" }}
@@ -32,7 +27,7 @@ const Footer = () => {
         </a>
       </div>
     </footer>
-  )
-}
+  );
+};
 
-export default Footer
+export default Footer;

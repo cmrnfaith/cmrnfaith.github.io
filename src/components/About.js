@@ -1,5 +1,5 @@
-import React from "react"
-import ProfileImage from "../images/profile.png"
+import React from "react";
+import ProfileImage from "../images/profile.png";
 const About = () => {
   return (
     <section className="container">
@@ -12,23 +12,27 @@ const About = () => {
           src={ProfileImage}
           alt="Cameron Faith"
         />
-
+        <h5>Summary</h5>
         <p>
           I'm a Computer Engineer from the University of Calgary with an
-          aptitude in Data Analysis, Algorithms and Finance.
+          aptitude in cloud infrastructure, full-stack development, and 3D
+          design. I am currently working to grow my skills in AI, technology,
+          and product development. I am experienced in financial data analysis,
+          web design, AR, and cloud computing and enjoy working on challenging
+          problems.
         </p>
+        <p></p>
+        <h5>Achievements</h5>
         <p>
-          I have a strong foundation in Object Oriented Programing (OOP),
-          Algorithm Design, Embedded Systems Programing, Project Management, and
-          Web Design.
-        </p>
-        <p>
-          I am looking for a full-time remote position, but am open to
-          relocating for the right opportunity.{" "}
+          I have co-authored a patent for a Remote Multiplayer AR software
+          design. Created a full paper-trading crypto web platform where user's
+          could backtest various trading algorithms and test their validity.
+          Developed a trading bot in Python that implemented a few of the ideas
+          discovered through my site.
         </p>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default About
+export default About;

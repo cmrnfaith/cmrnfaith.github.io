@@ -1,5 +1,32 @@
 [
   {
+    "id": 10,
+    "name": "OpenSea Webviewer",
+    "blog": "/blog",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/missing.png",
+    "github": "https://github.com/cmrnfaith",
+    "deploy": "",
+    "topics": "React, 3js, Google Cloud, Lighting, API, 3D, UI Design"
+  },
+  {
+    "id": 11,
+    "name": "Ai Lofi Hip-Hop Radio (In Progress)",
+    "blog": "/blog",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/missing.png",
+    "github": "https://github.com/cmrnfaith/cydro-ai",
+    "deploy": "",
+    "topics": "Python, AI, PyTorch, Music, Web, Deep Neural Nets, GCP"
+  },
+  {
+    "id": 12,
+    "name": "Ai Car Simulator (In Progress)",
+    "blog": "/blog",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/missing.png",
+    "github": "https://github.com/cmrnfaith",
+    "deploy": "",
+    "topics": "Python, AI, TensorFlow, Web, Neural Nets"
+  },
+  {
     "id": 1,
     "name": "Crypto Trading Platform",
     "blog": "/blog",
@@ -7,6 +34,24 @@
     "github": "https://github.com/excessive-alpha/web-dev-python-flask",
     "deploy": "https://excessivealpha.com",
     "topics": "React, Python, API, PostgreSQL DB, TimeScaleDB, Charting, Indexing Data, Crypto"
+  },
+  {
+    "id": 6,
+    "name": "NFT Generator Program",
+    "blog": "/blog",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/squirrel.gif",
+    "github": "https://github.com/excessive-alpha/web-dev-python-flask",
+    "deploy": "",
+    "topics": "Python, Image Processing, Algorithms, Smart Contracts, Art"
+  },
+  {
+    "id": 5,
+    "name": "Web 3.0",
+    "blog": "/blog",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/web_3.0/master/docs/homepage.png",
+    "github": "https://github.com/cmrnfaith/web_3.0",
+    "deploy": "",
+    "topics": "React, Eth, Giphy, CSS, Messaging, Web 3.0"
   },
   {
     "id": 2,
@@ -36,22 +81,13 @@
     "topics": "Java, GUI, C/C++, Networks, Communications Systems, Sensors, Embedded Programming"
   },
   {
-    "id": 5,
-    "name": "Web 3.0",
+    "id": 9,
+    "name": "Parking Lot Simulator",
     "blog": "/blog",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/web_3.0/master/docs/homepage.png",
-    "github": "https://github.com/cmrnfaith/web_3.0",
+    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/parking_lot.gif",
+    "github": "https://github.com/cmrnfaith/ParkingLotSim",
     "deploy": "",
-    "topics": "React, Eth, Giphy, CSS, Messaging, Web 3.0"
-  },
-  {
-    "id": 6,
-    "name": "NFT Generator Program",
-    "blog": "/blog",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/squirrel.gif",
-    "github": "https://github.com/excessive-alpha/web-dev-python-flask",
-    "deploy": "",
-    "topics": "Python, Image Processing, Algorithms, Smart Contracts, Art"
+    "topics": "Processing, Simulation, OOP, Game Development"
   },
   {
     "id": 7,
@@ -70,14 +106,5 @@
     "github": "https://github.com/cmrnfaith/Text2Speech",
     "deploy": "",
     "topics": "C, Embedded Programming, Arduino, Audio Processing, Text Recognition, Accessibility"
-  },
-  {
-    "id": 9,
-    "name": "Parking Lot Simulator",
-    "blog": "/blog",
-    "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/parking_lot.gif",
-    "github": "https://github.com/cmrnfaith/ParkingLotSim",
-    "deploy": "",
-    "topics": "Processing, Simulation, OOP, Game Development"
   }
 ]
