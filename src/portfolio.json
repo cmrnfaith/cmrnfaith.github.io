@@ -2,7 +2,7 @@
   {
     "id": 10,
     "name": "OpenSea Webviewer",
-    "blog": "/blog",
+    "blog": "/blog?os_viewer",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/missing.png",
     "github": "",
     "deploy": "",
@@ -11,7 +11,7 @@
   {
     "id": 11,
     "name": "Ai Lofi Hip-Hop Radio (In Progress)",
-    "blog": "/blog",
+    "blog": "/blog?ai_radio",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/missing.png",
     "github": "https://github.com/cmrnfaith/cydro-ai",
     "deploy": "",
@@ -20,7 +20,7 @@
   {
     "id": 12,
     "name": "Ai Car Simulator (In Progress)",
-    "blog": "/blog",
+    "blog": "/blog?ai_car",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/missing.png",
     "github": "https://github.com/cmrnfaith",
     "deploy": "",
@@ -29,7 +29,7 @@
   {
     "id": 1,
     "name": "Crypto Trading Platform",
-    "blog": "/blog",
+    "blog": "/blog?excessivealpha",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/charts.png",
     "github": "https://github.com/excessive-alpha/web-dev-python-flask",
     "deploy": "https://excessivealpha.com",
@@ -38,7 +38,7 @@
   {
     "id": 6,
     "name": "NFT Generator Program",
-    "blog": "/blog",
+    "blog": "/blog?nft_gen",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/squirrel.gif",
     "github": "https://github.com/excessive-alpha/web-dev-python-flask",
     "deploy": "",
@@ -47,7 +47,7 @@
   {
     "id": 5,
     "name": "Web 3.0",
-    "blog": "/blog",
+    "blog": "/blog?eth_testnet",
     "image": "https://raw.githubusercontent.com/cmrnfaith/web_3.0/master/docs/homepage.png",
     "github": "https://github.com/cmrnfaith/web_3.0",
     "deploy": "https://eth.excessivealpha.com/",
@@ -56,7 +56,7 @@
   {
     "id": 2,
     "name": "FSAE Track Data UI",
-    "blog": "/blog",
+    "blog": "/blog?track_ui",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/track.JPG",
     "github": "https://github.com/cmrnfaith/FSAE-Track-Data-UI",
     "deploy": "",
@@ -64,8 +64,8 @@
   },
   {
     "id": 3,
-    "name": "Bitcoin Bot",
-    "blog": "/blog",
+    "name": "Trading Bot",
+    "blog": "/blog?trading_bot",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/BotAlgo.png",
     "github": "https://github.com/excessive-alpha/BitcoinBot",
     "deploy": "",
@@ -74,7 +74,7 @@
   {
     "id": 4,
     "name": "Tire Temperature & Pressure Monitoring System",
-    "blog": "/blog",
+    "blog": "/blog?ttpms",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/ttpms.png",
     "github": "https://github.com/lukegarland/ttpms",
     "deploy": "",
@@ -83,7 +83,7 @@
   {
     "id": 9,
     "name": "Parking Lot Simulator",
-    "blog": "/blog",
+    "blog": "/blog?parkinglot",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/parking_lot.gif",
     "github": "https://github.com/cmrnfaith/ParkingLotSim",
     "deploy": "",
@@ -92,7 +92,7 @@
   {
     "id": 7,
     "name": "Course Registration System",
-    "blog": "/blog",
+    "blog": "/blog?course_reg",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/course_reg.png",
     "github": "https://github.com/lukegarland/CourseRegistrationSystem",
     "deploy": "",
@@ -101,7 +101,7 @@
   {
     "id": 8,
     "name": "Text-2-Speech",
-    "blog": "/blog",
+    "blog": "/blog?t2s",
     "image": "https://raw.githubusercontent.com/cmrnfaith/portfolio/master/src/images/t2s.png",
     "github": "https://github.com/cmrnfaith/Text2Speech",
     "deploy": "",
