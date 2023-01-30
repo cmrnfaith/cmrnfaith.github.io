@@ -9,15 +9,9 @@ const Resume = () => {
 
       <div>
         <div className="mt-5">
-          <h2 className="top-title">Cameron Faith</h2>
-          <ul></ul>
-          <h5>
-            Below are a list of my key skills and links to both my resume and
-            LinkedIn:
-          </h5>
           <div className="justify-content-center mt-5">
             <div>
-              <h2 className="top-title">Proficiencies</h2>
+              <h3 className="top-title">Proficiencies</h3>
               <ul>
                 <li>
                   <br />
