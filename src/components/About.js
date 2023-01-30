@@ -25,10 +25,10 @@ const About = () => {
         <h5>Achievements</h5>
         <p>
           I have co-authored a patent for a Remote Multiplayer AR software
-          design. Created a full paper-trading crypto web platform where user's
-          could backtest various trading algorithms and test their validity.
-          Developed a trading bot in Python that implemented a few of the ideas
-          discovered through my site.
+          design. As an independant team, developed a full paper-trading crypto
+          web platform where users could backtest various trading algorithms and
+          test their validity. Independently developed a trading bot in Python
+          that implemented a few of the ideas discovered through my site.
         </p>
       </div>
     </section>
